@@ -1,4 +1,4 @@
-package org.itk.testtaskFilter;
+package org.itk.testtaskfilter;
 
 import java.lang.reflect.Array;
 
